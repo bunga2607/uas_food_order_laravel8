@@ -21,3 +21,8 @@ Project ini dibuat untuk pembelajaran / tugas UAS, dan bisa digunakan sebagai da
    ```bash
    git clone https://github.com/bunga2607/uas_food_order_laravel8.git
    cd uas_food_order_laravel8
+
+   ## 📸 Tampilan Aplikasi
+
+![Tampilan Dashboard](https://raw.githubusercontent.com/bunga2607/uas_food_order_laravel8/main/screenshots/dashboard.png)
+
