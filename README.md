@@ -23,7 +23,7 @@ Project ini dibuat untuk pembelajaran / tugas UAS, dan bisa digunakan sebagai da
 ## 📸 Tampilan Aplikasi  
 
 ### Halaman Login 
-![Dashboard Admin](https://raw.githubusercontent.com/bunga2607/uas_food_order_laravel8/main/screenshots/dashboard_admin.png)  
+![Login](screenshots/Screenshot 2025-09-19 142124.png)
 
 ### Halaman Dashboard  
 ![Dashboard User](https://raw.githubusercontent.com/bunga2607/uas_food_order_laravel8/main/screenshots/dashboard_user.png)  
